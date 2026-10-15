@@ -1,0 +1,85 @@
+═══════════════════════════════════════════════════════════════
+   IMÁGENES SUGERIDAS PARA EL SITIO WEB DE AX NETWORK
+═══════════════════════════════════════════════════════════════
+
+Las imágenes deben tener alta resolución (mínimo 1200px de ancho),
+estilo profesional y moderno. Formato recomendado: WebP o PNG.
+
+───────────────────────────────────────────────────────────────
+1. HERO — Imagen principal (hero-bg.jpg)
+───────────────────────────────────────────────────────────────
+   Tamaño: 1920 x 1080 px (o más)
+   Descripción: Fotografía profesional de un espacio de trabajo
+   tecnológico moderno con iluminación azul/neón suave.
+   Puede mostrar un escritorio con monitores, teclado mecánico,
+   cables organizados y ambiente profesional. Tonos oscuros con
+   acentos de luz azul eléctrico. Estilo futurista y limpio.
+   Alternativa: Imagen abstracta de red/circuito con partículas
+   de luz azul sobre fondo oscuro.
+
+───────────────────────────────────────────────────────────────
+2. SECCIÓN SERVICIOS — Imagen lateral (servicios-img.jpg)
+───────────────────────────────────────────────────────────────
+   Tamaño: 800 x 600 px
+   Descripción: Técnico profesional trabajando en una
+   computadora abierta (reparación/mantenimiento). Se debe ver
+   limpieza, orden y profesionalismo. Iluminación cálida-neutra.
+   El técnico puede usar guantes antiestáticos o herramientas
+   especializadas.
+
+───────────────────────────────────────────────────────────────
+3. SECCIÓN IMPRESIONES — Imagen (impresiones-img.jpg)
+───────────────────────────────────────────────────────────────
+   Tamaño: 800 x 600 px
+   Descripción: Impresora profesional en funcionamiento, con
+   hojas impresas saliendo de ella. Puede mostrar documentos
+   a color y en blanco y negro, con calidad nítida. Ambiente de
+   oficina moderna o centro de impresión. Incluir detalles como
+   resmas de papel, documentos apilados con buen acabado.
+
+───────────────────────────────────────────────────────────────
+4. SECCIÓN EMPRESAS — Imagen (empresas-img.jpg)
+───────────────────────────────────────────────────────────────
+   Tamaño: 800 x 600 px
+   Descripción: Reunión profesional de equipo en sala moderna
+   con pantalla/monitor mostrando gráficos o un dashboard
+   tecnológico. Personas colaborando con laptops. Ambiente
+   corporativo pero accesible, moderno. Iluminación natural
+   combinada con luz artificial cálida.
+
+───────────────────────────────────────────────────────────────
+5. SECCIÓN CONTACTO — Imagen de fondo (contacto-bg.jpg)
+───────────────────────────────────────────────────────────────
+   Tamaño: 1920 x 600 px
+   Descripción: Vista panorámica abstracta de líneas de datos
+   o conexiones de red luminosas sobre fondo oscuro azulado.
+   Efecto de profundidad con partículas brillantes. Estilo
+   tecnológico y premium.
+
+───────────────────────────────────────────────────────────────
+6. LOGO — Variantes necesarias
+───────────────────────────────────────────────────────────────
+   - logo-blanco.png  → Ya existe (logo sobre fondo oscuro)
+   - logo-negro.png   → Ya existe (logo sobre fondo claro)
+   - favicon.ico      → Icono de 32x32 y 16x16 del logo
+
+───────────────────────────────────────────────────────────────
+7. GALERÍA / TESTIMONIOS (opcional, futuro)
+───────────────────────────────────────────────────────────────
+   - Fotos de trabajos realizados (antes y después)
+   - Captura de reseñas de clientes satisfechos
+   - Fotos del equipo de trabajo
+
+═══════════════════════════════════════════════════════════════
+   NOTAS DE ESTILO
+═══════════════════════════════════════════════════════════════
+   • Paleta de colores para las imágenes:
+     - Fondos oscuros (#0a0e1a, #111827)
+     - Acentos azul eléctrico (#0ea5e9, #38bdf8)
+     - Acentos azul profundo (#1e40af, #3b82f6)
+     - Detalles blancos y grises claros
+   • Las imágenes deben transmitir: profesionalismo,
+     modernidad, confianza y tecnología de punta.
+   • Evitar imágenes genéricas de stock. Preferir fotos reales
+     del negocio o imágenes de muy alta calidad.
+═══════════════════════════════════════════════════════════════
