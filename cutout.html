@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head><title>Cutout</title></head>
+<body>
+<canvas id="c"></canvas>
+<script>
+const img = new Image();
+img.onload = () => {
+  const c = document.getElementById('c');
+  c.width = img.width;
+  c.height = img.height;
+  const ctx = c.getContext('2d');
+  ctx.drawImage(img, 0, 0);
+  const idata = ctx.getImageData(0, 0, c.width, c.height);
+  const d = idata.data;
+  
+  for (let i = 0; i < d.length; i += 4) {
+    const r = d[i], g = d[i+1], b = d[i+2];
+    const maxVal = Math.max(r, g, b);
+    if (maxVal < 14) {
+      d[i+3] = 0;
+    } else if (maxVal < 36) {
+      d[i+3] = Math.round(((maxVal - 14) / 22) * 255);
+    }
+  }
+  ctx.putImageData(idata, 0, 0);
+  const pngData = c.toDataURL('image/png');
+  fetch('/save', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ image: pngData })
+  }).then(r => r.json()).then(res => {
+    document.body.innerText = 'SAVED SUCCESS!';
+  });
+};
+img.src = '/img/hero-statue.jpg';
+</script>
+</body>
+</html>
